@@ -5,10 +5,13 @@
 ### Category Name 1 
 
 [Predicting Telecom customer churn usin BigML](/pdf/bigML1.pdf)
+<br><p style="font-size:12px"> Skills used: Machine learning, Data Driven insights
+<br>Tools used: BigML, R, Excel 
+
 <img src="images/BigML_1.png?raw=true"/>
 
 ---
-#[Project 2 Title](/pdf/sample_presentation.pdf)
+[Kaggle Competition- ](/pdf/sample_presentation.pdf)
 #<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
