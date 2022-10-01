@@ -11,8 +11,11 @@
 <img src="images/BigML_1.png?raw=true"/>
 
 ---
-[Kaggle Competition- ](/pdf/sample_presentation.pdf)
-#<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Interactive Dashboard containing Geo-mapping of all vendors of a Brazilian e-commerce company and analyzing their payments](https://public.tableau.com/app/profile/dhananjay.singh3797)
+<br><p style="font-size:12px"> Skills used: Data visualization, Database Management
+<br>Tools used: Tableau </p>
+<img src="images/dummy_thumbnail.jpg?raw=true" alt="Map of brazilian e commerce vendors"/>
+<img src="images/brazil.png?raw=true" alt="Data Schema for Olist database"/>
 
 ---
 
