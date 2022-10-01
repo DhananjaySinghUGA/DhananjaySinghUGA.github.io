@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Predicting Telecom customer curn usin BigML](/BigML1)
+[Predicting Telecom customer churn usin BigML](/BigML1)
 <img src="images/BigML_1.png?raw=true"/>
 
 ---
