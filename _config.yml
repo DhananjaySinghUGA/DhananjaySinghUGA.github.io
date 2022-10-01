@@ -5,14 +5,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   supplement my MBA from FMS, Delhi and 5 years of experience across industries such as Information Technology, 
   Telecom and Consumer products. With a mix of Data Analytics, Marketing and Product experience, 
   I seek to leverage my analytics aptitude, leadership skills and creativity to help businesses grow in a sustainable way <br>
-  
-  <br>Interests: Storytelling, Data visualization, business intelligence and Insights <br>
+  <br>Interests: Storytelling, ML, Data visualization, business intelligence and Insights <br>
   <br>Passionate about Soccer, FC Barcelona and Cricket<br>
-  <br>
   <a href="https://www.linkedin.com/in/dhananjay1008/">View My LinkedIn Profile</a> 
   
 
 theme: jekyll-theme-minimal
 
 
-#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
