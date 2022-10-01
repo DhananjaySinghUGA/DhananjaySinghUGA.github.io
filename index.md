@@ -6,7 +6,7 @@
 
 [Predicting Telecom customer churn usin BigML](/pdf/bigML1.pdf)
 <br><p style="font-size:12px"> Skills used: Machine learning, Data Driven insights
-Tools used: BigML, R, Excel </p>
+<br>Tools used: BigML, R, Excel </p>
 
 <img src="images/BigML_1.png?raw=true"/>
 
