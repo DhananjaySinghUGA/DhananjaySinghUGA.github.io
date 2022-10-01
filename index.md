@@ -5,15 +5,15 @@
 ### Business Analytics Projects
 
 [Predicting Telecom customer churn usin BigML](/pdf/bigML1.pdf)
-<br><p style="font-size:12px"> Skills used: Machine learning, Data Driven insights
-<br>Tools used: BigML, R, Excel </p>
+<br>Skills used: Machine learning, Data Driven insights
+<br>Tools used: BigML, R, Excel
 
 <img src="images/BigML_1.png?raw=true"/>
 
 ---
 [Interactive Dashboard containing Geo-mapping of all vendors of a Brazilian e-commerce company and analyzing their payments](https://public.tableau.com/app/profile/dhananjay.singh3797)
-<br><p style="font-size:12px"> Skills used: Data visualization, Database Management
-<br>Tools used: Tableau </p>
+<br> Skills used: Data visualization, Database Management
+<br>Tools used: Tableau
 <img src="images/brazil.png?raw=true" alt="Map of brazilian e commerce vendors"/>
 <img src="images/Schema.PNG?raw=true" alt="Data Schema for Olist database"/>
 
@@ -22,13 +22,8 @@
 
 ---
 
-### Category Name 2
+### Future Projects
 
-- #[Project 1 Title](http://example.com/)
-- #[Project 2 Title](http://example.com/)
-- #[Project 3 Title](http://example.com/)
-- #[Project 4 Title](http://example.com/)
-- #[Project 5 Title](http://example.com/)
 
 ---
 
