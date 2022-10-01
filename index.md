@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Business Analytics Projects
 
 [Predicting Telecom customer churn usin BigML](/pdf/bigML1.pdf)
 <br><p style="font-size:12px"> Skills used: Machine learning, Data Driven insights
