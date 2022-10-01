@@ -15,7 +15,6 @@
 <br> Skills used: Data visualization, Database Management
 <br>Tools used: Tableau
 <img src="images/brazil.png?raw=true" alt="Map of brazilian e commerce vendors"/>
-<img src="images/Schema.PNG?raw=true" alt="Data Schema for Olist database"/>
 
 ---
 
