@@ -14,6 +14,7 @@
 ---
 [Brazilian e-commerce vendor map](https://public.tableau.com/app/profile/dhananjay.singh3797/viz/Brazilianecommerce_16646693656190/Sheet1)
 <br> An interactive dashboard containing geo-mapping of all vendors of a Brazilian e-commerce company and analysis of their payments
+
 <br>Skills used: Data visualization, Database Management
 <br>Tools used: Tableau<br>
 <a href = "[https://public.tableau.com/app/profile/dhananjay.singh3797](https://public.tableau.com/app/profile/dhananjay.singh3797/viz/Brazilianecommerce_16646693656190/Sheet1)"><img src="images/brazil.png?raw=true" alt="Map of brazilian e commerce vendors"/></a>
