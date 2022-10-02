@@ -11,7 +11,7 @@
 <a href = "/pdf/bigML1.pdf"><img src="images/BigML_1.png?raw=true"/></a>
 
 ---
-[Brazilian e-commerce vendor map](https://public.tableau.com/app/profile/dhananjay.singh3797/viz/Brazilianecommerce_16646693656190/Sheet1))
+[Brazilian e-commerce vendor map](https://public.tableau.com/app/profile/dhananjay.singh3797/viz/Brazilianecommerce_16646693656190/Sheet1)
 <br> An interactive dashboard containing geo-mapping of all vendors of a Brazilian e-commerce company and analyzing their payments
 <br><br>Skills used: Data visualization, Database Management
 <br>Tools used: Tableau<br>
