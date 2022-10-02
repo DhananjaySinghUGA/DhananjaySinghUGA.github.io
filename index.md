@@ -12,13 +12,13 @@
 
 ---
 [Interactive dashboard containing geo-mapping of all vendors of a Brazilian e-commerce company and analyzing their payments]([https://public.tableau.com/app/profile/dhananjay.singh3797](https://public.tableau.com/app/profile/dhananjay.singh3797/viz/Brazilianecommerce_16646693656190/Sheet1))
-<br>Skills used: Data visualization, Database Management
-<br>Tools used: Tableau
+<br><br>Skills used: Data visualization, Database Management
+<br>Tools used: Tableau<br>
 <a href = "[https://public.tableau.com/app/profile/dhananjay.singh3797](https://public.tableau.com/app/profile/dhananjay.singh3797/viz/Brazilianecommerce_16646693656190/Sheet1)"><img src="images/brazil.png?raw=true" alt="Map of brazilian e commerce vendors"/></a>
 <br>
 [A fully clickable and intuitive dashboard for bank executives, helping them explore their customer demographics]([https://public.tableau.com/app/profile/dhananjay.singh3797](https://public.tableau.com/app/profile/dhananjay.singh3797/viz/Ukbankdashbord/Dashboard1))
-<br>Skills used: Data visualization, Insights management
-<br>Tools used: Tableau
+<br><br>Skills used: Data visualization, Insights management
+<br>Tools used: Tableau<br>
 <a href = "[https://public.tableau.com/app/profile/dhananjay.singh3797](https://public.tableau.com/app/profile/dhananjay.singh3797/viz/Ukbankdashbord/Dashboard1)"><img src="images/brazil.png?raw=true" alt="Map of brazilian e commerce vendors"/></a>
 ---
 
