@@ -5,7 +5,7 @@
 ### Business Analytics Projects
 
 [Predicting telecom customer churn using BigML](/pdf/bigML1.pdf)
-An executive presentation with recommendations on reducing churn amongst customers of a mid sized telecom provider(fictional) using machine larning decestion trees and model ensamble  
+<br>An executive presentation with recommendations on reducing churn amongst customers of a mid sized telecom provider(fictional) using machine larning decestion trees and model ensamble  
 <br>Skills used: Machine learning, Data driven insights
 <br>Tools used: BigML, R, Excel
 
